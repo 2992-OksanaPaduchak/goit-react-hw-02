@@ -1,0 +1,17 @@
+.title {
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: -0.02em;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: -0.02em;
+  color: black;
+  margin-bottom: 14px;
+}

@@ -1,0 +1,20 @@
+.boxBtn {
+  display: flex;
+  gap: 4px;
+}
+
+.btn {
+  border-radius: 4px;
+  border: 1px solid transparent;
+  padding: 0.3em 0.8em;
+  font-size: 1em;
+  font-weight: 500;
+  background-color: #d1cbcb;
+  border-color: #686869;
+  cursor: pointer;
+  margin-bottom: 24px;
+}
+.btn:hover,
+.btn:focus {
+  border-color: #39393a;
+}
